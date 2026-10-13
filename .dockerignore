@@ -1,0 +1,10 @@
+.env
+.env.*
+.git
+**/node_modules
+**/dist
+tests
+test-results
+screenshots
+README.md
+VERIFICATION.md
